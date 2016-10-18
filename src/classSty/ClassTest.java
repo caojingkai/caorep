@@ -3,6 +3,9 @@ package classSty;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * stydy Class ¿‡
+ */
 public class ClassTest {
 	
 	
