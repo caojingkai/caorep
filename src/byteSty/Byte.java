@@ -12,7 +12,7 @@ public class Byte {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		out.println((byte)1002);
-		//readFile();
+		//readFile(); 
 		//showByte();
 		movel();
 	}
