@@ -13,7 +13,7 @@ public class Byte {
 		// TODO Auto-generated method stub
 		out.println((byte)1002);
 		//readFile(); 
-		//showByte();
+		//showByte(); 
 		movel();
 	}
 	
