@@ -19,7 +19,7 @@ public class CGLiProxy implements MethodInterceptor{
 	@Override
 	public Object intercept(Object arg0, Method arg1, Object[] arg2,
 			MethodProxy arg3) throws Throwable {
-		// TODO Auto-generated met hod stub
+		// TODO Auto-generated method stub
 		before();
 		Object result = arg3.invokeSuper(arg0, arg2);
 		after();
