@@ -16,7 +16,7 @@ public class Client {
 
 	public static void main(String[] args) 
 	{
-		//funcJDKProxy();
+		//funcJDKProxy();fdsfd
 		//funcCGLiProxy();
 		//¶à²ã´úÀí
 		//manyLevelProxy();
